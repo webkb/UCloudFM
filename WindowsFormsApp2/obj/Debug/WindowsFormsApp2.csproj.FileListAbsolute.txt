@@ -6,3 +6,11 @@ F:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
 F:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
 F:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 F:\vs\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\UCloudFM\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\UCloudFM\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\UCloudFM\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\UCloudFM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\UCloudFM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\UCloudFM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\UCloudFM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\UCloudFM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
